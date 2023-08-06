@@ -15,7 +15,7 @@
 
 ###
 
-<div align="center">
+<div style='display:flex; flex-direction:wrap; gap:10px; justify-content:center;'>
   <img src="https://github-readme-stats.vercel.app/api?username=mjkgarrow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=mjkgarrow&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjkgarrow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -23,10 +23,12 @@
 
 ###
 <br/>
-
+<div style='display:flex; flex-direction:column; justify-content:center; align-items:center; margin:auto; border-radius:5px; overflow:hidden;'>
+  <img height="180" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif"  />
+</div>
+<br/>
 
 ###
-<div style='display:flex; justify-content:space-between;'>
 <div style='display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px; margin:auto;'>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -71,15 +73,10 @@
     </a>
   </div>
 </div>
-<div style='display:flex; flex-direction:column; justify-content:center; align-items:center; margin:auto; border-radius:5px; overflow:hidden;'>
-  <img height="180" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif"  />
-</div>
-</div>
 
 ###
 
 ###
-<br/>
 
 <div align="center">
   <picture>
