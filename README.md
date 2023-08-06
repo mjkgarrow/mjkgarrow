@@ -91,3 +91,6 @@
 
 ###
 
+Credits:  
+Typing: [DenverCoder1](https://github.com/denvercoder1/readme-typing-svg)  
+Snake: [Platane](https://github.com/Platane/snk)
