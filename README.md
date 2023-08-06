@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, my name is Matt and I'm a web dev from Melbourne!</h2>
+<h2 align="center">Hi 👋, my name is Matt and I'm a web dev from Melbourne!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjkgarrow&label=Profile%20views&color=0e75b6&style=flat" alt="mjkgarrow" /> </p>
 
@@ -70,10 +70,16 @@
 ###
 
 <br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <img src="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <div align="center">
 <a href='https://www.google.com'>
     <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=gigas&theme=dracula" height="150" width="350" alt="stats graph" />
