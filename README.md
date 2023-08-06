@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋, my name is Matt and I'm a web dev from Melbourne!</h2>
+<!-- <h2 align="center">Hi 👋, my name is Matt and I'm a web dev from Melbourne!</h2> -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Borel&size=24&duration=2000&pause=1&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Matt+;and+I'm+a+web+dev+from+Melbourne!" alt="Typing SVG" /></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjkgarrow&label=Profile%20views&color=0e75b6&style=flat" alt="mjkgarrow" /> </p>
 
@@ -72,12 +76,12 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/52a2b57b7fa1ff1580ad85ef9b105434cd843d34/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/52a2b57b7fa1ff1580ad85ef9b105434cd843d34/github-contribution-grid-snake.svg" />
   <img alt="... Snake animation" src="github-snake.svg" />
 </picture>
 
-<!-- <img src="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/output/snake.svg" alt="Snake animation" />
 
 ###
 
