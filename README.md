@@ -73,15 +73,7 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/52a2b57b7fa1ff1580ad85ef9b105434cd843d34/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/52a2b57b7fa1ff1580ad85ef9b105434cd843d34/github-contribution-grid-snake.svg" />
-  <img alt="... Snake animation" src="github-snake.svg" />
-</picture>
-
-<img src="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
