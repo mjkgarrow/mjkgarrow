@@ -1,7 +1,7 @@
 <!-- <h2 align="center">Hi 👋, my name is Matt and I'm a web dev from Melbourne!</h2> -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Borel&size=24&duration=2000&pause=1&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Matt+;and+I'm+a+web+dev+from+Melbourne!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Borel&size=24&duration=2000&pause=1&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Matt+;and+I'm+a+web+developer+from+Melbourne!" alt="Hi 👋, my name is Matt and I'm a web dev from Melbourne!" /></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjkgarrow&label=Profile%20views&color=0e75b6&style=flat" alt="mjkgarrow" /> </p>
@@ -22,6 +22,7 @@
 </div>
 
 ###
+<br/>
 
 <img align="right" height="150" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif"  />
 
@@ -58,7 +59,6 @@
 </div>
 
 ###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/matt-garrow/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -72,15 +72,22 @@
 </div>
 
 ###
+<br/>
 
-<img src="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjkgarrow/mjkgarrow/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</div>
 
 ###
 
 <div align="center">
-<a href='https://www.google.com'>
+  <a href='https://www.google.com'>
     <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=gigas&theme=dracula" height="150" width="350" alt="stats graph" />
-</a>
+  </a>
 </div>
 
 ###
