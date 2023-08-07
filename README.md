@@ -1,11 +1,12 @@
 <!-- <h2 align="center">Hi 👋, my name is Matt and I'm a web dev from Melbourne!</h2> -->
 
-<picture align="center">
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Borel&size=24&duration=2000&pause=1&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Matt+;and+I'm+a+web+dev+from+Melbourne!" />
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Borel&size=24&duration=2000&pause=1&color=000&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Matt+;and+I'm+a+web+dev+from+Melbourne!" />
     <img alt="...Hi 👋, my name is Matt and I'm a web dev from Melbourne!" src="title.svg" />
-</picture>
-
+  </picture>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjkgarrow&label=Profile%20views&color=0e75b6&style=flat" alt="mjkgarrow" /> </p>
 
 👨🏽‍💻 I’m currently perfecting my MERN stack patterns with some [cool](https://stratasphere.netlify.app/) side [projects](https://northside-tales.netlify.app/), while also wrapping up a higher diploma with [Coder Academy](https://coderacademy.edu.au/) 🥳
