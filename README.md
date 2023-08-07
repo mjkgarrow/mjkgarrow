@@ -28,7 +28,10 @@
 </div>
 
 ###
-<img align="right" height="150" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif" />
+
+<a href='https://github.com/mjkgarrow/typing-speed-terminal-app'>
+  <img align="right" height="150" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif" alt='typing gif'/>
+</a>
 
 ###
 
@@ -88,7 +91,7 @@
 ###
 
 <div align="center">
-<a href='https://www.google.com'>
+<a href='https://www.codewars.com'>
     <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=gigas&theme=dracula" height="150" width="350" alt="stats graph" />
 </a>
 </div>
